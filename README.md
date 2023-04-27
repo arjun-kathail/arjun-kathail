@@ -8,10 +8,12 @@
 <br>
 
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+## <picture><img src = "https://user-images.githubusercontent.com/65658829/234834637-2b18ab99-719a-426b-85ef-a9ef801d8f9c.gif" width = 50px></picture> **About me**
+
+
+<picture> <img align="right" src="https://user-images.githubusercontent.com/65658829/234834678-c246fee1-8ed0-4678-a8f3-f8d5d1d49afc.gif" width = 250px></picture>
 
 <br>
 
@@ -78,7 +80,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://user-images.githubusercontent.com/65658829/234834961-d08e1375-8409-4654-ab02-bcb7cbc5d704.gif" width ="80">
 <br>
 <div align='left'>
  
